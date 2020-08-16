@@ -2,4 +2,8 @@ holly molly
 demo
 
 this is servo
+<<<<<<< HEAD
 karthiinreoad
+=======
+dumakoli
+>>>>>>> 5f1ad51b908852ae17c7e91ba6d1fbcf7c4ca920
